@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/abubekersh/abubekersh/blob/main/lost-in-space-404-3840x2160-18155.png" alt="lost in space 404 picture">
+<img src="https://github.com/abubekersh/abubekersh/blob/main/lost-in-space-404-3840x2160-18155.png" height="200px" width="auto" style="background-size: cover;" alt="lost in space 404 picture">
 
 <!--
 **abubekersh/abubekersh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
