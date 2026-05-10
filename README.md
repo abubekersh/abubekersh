@@ -21,6 +21,7 @@
 </div>
 
 <hr>
+
 ## 🛠️ Languages and Tools
 
 <br>
@@ -31,6 +32,7 @@
 </p>
 
 <hr>
+
 ## ⚡️ Stats
 
 <br>
