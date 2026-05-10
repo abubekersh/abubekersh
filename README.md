@@ -7,8 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abubeker+SH!;" />
 </h1>
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+
 
 <br>
 
@@ -33,15 +32,10 @@
 </p>
 
 <hr>
-## ⚡️ Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=abubekersh&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="abubekersh's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=abubekersh&theme=transparent&count_private=true&border_radius=10&locale=en" alt="abubekersh's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=abubekersh&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="abubekersh's Most Used Languages" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abubekersh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=abubekersh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abubekersh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <hr>
 <!--
