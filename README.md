@@ -1,6 +1,12 @@
 ## Hi there 👋
-<img src="https://github.com/abubekersh/abubekersh/blob/main/lost-in-space-404-3840x2160-18155.png" height="200px" width="auto" style="background-size: cover;" alt="lost in space 404 picture">
+<div align="center">
+  <img src="https://github.com/abubekersh/abubekersh/blob/main/lost-in-space-404-3840x2160-18155.png" height="200px" width="auto" style="background-size: cover;" alt="lost in space 404      picture">
+</div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abubeker+SH!;" />
+</h1>
+### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 <!--
 **abubekersh/abubekersh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
