@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,postgres,python" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,postgres,python" /> <br/>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,git,postman" />
 </p>
 
@@ -37,7 +37,7 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.shion.dev/api?username=abubekersh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.shion.dev/api?username=abubekersh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="ChijiokeOkorji's GitHub Stats" /> <br/>
   <img width=390 src="https://streak-stats.demolab.com/?user=abubekersh&theme=dark&hide_border=false" alt="ChijiokeOkorji's" />
   <img width=325 src="https://github-readme-stats.shion.dev/api/top-langs/?username=abubekersh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ChijiokeOkorji's Most Used Languages" />
 </div>
