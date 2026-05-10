@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/abubekersh/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{abubekersh}/count.svg" alt="Visitor's Count" />
 </div>
 <!--
 **abubekersh/abubekersh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
